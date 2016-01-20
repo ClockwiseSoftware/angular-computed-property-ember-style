@@ -1,0 +1,19 @@
+{
+  "name": "Angular Computed Property Service Ember Style",
+  "main": "angular-computed-property-ember-style.js",
+  "authors": [
+    "Oleg Sudavnyy (http://clockwisesoftware.com/) <acestudiooleg@gmail.com>"
+  ],
+  "description": "Allow use Ember style syntax to use computed property, useful and convinient instead using default watcher in Angular",
+  "moduleType": [],
+  "keywords": [
+    "Computed",
+    "property",
+    "Ember",
+    "Style",
+    "Angular",
+    "Watchers"
+  ],
+  "license": "MIT",
+  "homepage": "http://clockwisesoftware.com/"
+}
