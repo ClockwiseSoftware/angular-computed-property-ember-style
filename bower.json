@@ -1,5 +1,6 @@
 {
-  "name": "Angular Computed Property Service Ember Style",
+  "name": "angular-computed-property-ember-style",
+  "version":"0.0.1",
   "main": "angular-computed-property-ember-style.js",
   "authors": [
     "Oleg Sudavnyy (http://clockwisesoftware.com/) <acestudiooleg@gmail.com>"
